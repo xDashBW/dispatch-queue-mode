@@ -55,6 +55,18 @@
       ,* TODO 2022.11.27
     #+end_src
 
+    我觉得这样没有啥用，
+
+    正确的思路是
+    #+begin_src org
+      ,* TODO Python
+      ,** TODO Python 网络编程
+      SCHEDULED: <2022.11.26>
+      ,** TODO Python 数据库
+      SCHEDULED: <2022.11.27>
+    #+end_src
+
+    
     
 
   - 使用不同文件划分不同的场景，且有一个核心 base 文件进行同步
