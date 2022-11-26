@@ -1,0 +1,8 @@
+# dispatch-queue-mode
+
+* 起因
+
+- org-mode 的 gtd 工具非常复杂，
+
+
+* 
